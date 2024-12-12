@@ -2,7 +2,6 @@
 layout: post
 title:  "Li «regul de Stief»"
 date:   2024-12-12 19:01:00 +0100
-categories: occidental
 ---
 Li caracteristica max prominent de Occidental es li algoritme facil quel permisse li derivation regulari de centenes de paroles international: li regul de Wahl. It es complementat in li lexico per un selection cuidosi de radicas verbal, talmen que derivates natural es obtenet o per transformation regulari (*decider > decision*) o per un radica quel ja contene li tema perfectic (*acter > action*).
 

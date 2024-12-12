@@ -2,7 +2,6 @@
 layout: post
 title:  "De u «Linguallia»?"
 date:   2024-12-12 17:24:00 +0100
-categories: intern
 ---
 Li parol *linguallia* (old ortografie: *lingual’a*) significa -- secun strict interpretation del definition del sufixe *-allia* -- un colection in desórdine quel contene lingues o aferes lingual. Yo ha incontrat it in un lettre del nevo de Julius Lott, li creator de Mundolingue:
 
