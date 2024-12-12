@@ -4,7 +4,7 @@ title:  "Liste de omni verbes finient per -er"
 date:   2024-12-12 19:23:00 +0100
 categories: occidental
 ---
-Por un evaluation de [mi regul de derivation]({% post_url 2024-12-12-regul-de-stief %}), yo besonat un liste de omni verbes de Occidental queles fini per -er, nam tis representa li foco primari del regul. In lu sequent vu trova 583 verbes extractet ex li [dictionarium de Kemp e Pope](https://occidental-lang.com/dictionaries/?d=en); li liste es disponibil anc [in formate .txt]({{ site.baseurl }}{% link files/verbes_er.txt %}).
+Por un evaluation de [mi regul de derivation]({{ site.baseurl }}{% post_url occidental/2024-12-12-regul-de-stief %}), yo besonat un liste de omni verbes de Occidental queles fini per -er, nam tis representa li foco primari del regul. In lu sequent vu trova 583 verbes extractet ex li [dictionarium de Kemp e Pope](https://occidental-lang.com/dictionaries/?d=en); li liste es disponibil anc [in formate .txt]({{ site.baseurl }}{% link files/verbes_er.txt %}).
 
 - abatter
 - abciser
