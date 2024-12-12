@@ -28,9 +28,11 @@ domain: "sinelaude.github.io"
 
 minima:
   date_format: "%d.%m.%Y"
+  skin: dark
 
 # Build settings
-theme: minima
+#theme: minima
+remote-theme: jekyll/minima
 plugins:
   - jekyll-feed
 
