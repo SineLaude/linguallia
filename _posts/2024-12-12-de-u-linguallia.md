@@ -10,4 +10,4 @@ Li parol *linguallia* (old ortografie: *lingual’a*) significa -- secun strict 
 >
 > -- Heinrich Lott (Cosmoglotta A 68, 1930)
 
-It es dunc ne solmen un descrition tre apt del contenete quel yo intente scrir in ti-ci blog, ma anc un comemoration de un grand pionero in li camp del lingues auxiliari naturalistic, al ovre de qui yo ha ja dedicat [un micri websitu](https://sinelaude.github.io/mundolingue/).
+It es dunc ne solmen un description tre apt del contenete quel yo intente scriber in ti-ci blog, ma anc un comemoration de un grand pionero in li camp del lingues auxiliari naturalistic, al ovre de qui yo ha ja dedicat [un websitu](https://sinelaude.github.io/mundolingue/).
