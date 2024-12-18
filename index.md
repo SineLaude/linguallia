@@ -8,4 +8,4 @@ title: ""
 ---
 # Benevenit!
 
-In ti-ci blog yo scribe pri divers coses concernent lingues.
+In ti-ci blog yo scribe pri divers coses concernent lingues, precipue in e pri Occidental.
