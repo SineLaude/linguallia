@@ -5,7 +5,7 @@ date:   2025-01-05 15:00:00 +0100
 ---
 Li sequent textu es un traduction ex li libre francesi [*Les nouvelles langues internationales*](https://fr.wikisource.org/wiki/Fichier:Couturat,_Leau_-_Les_nouvelles_langues_internationales,_1908.pdf) («Li nov lingues international») de L. Couturat e L. Leau (1908; capitul «Idiom Neutral», pp. 52-53).
 
-It resuma un lingue-projecte elaborat de Edgar de Wahl e publicat in 1906 in numeró 6 del revúe *Progres* de Waldemar Rosenberger, creator de Idiom Neutral. Li lingue ci describet es sovente nominat *Auli* («auxiliari lingue») o, retrospectivmen, *Proto-Occidental*.
+It resuma un lingue-projecte elaborat de Edgar de Wahl e publicat in 1906 in numeró 6 del revúe *Progres* de Waldemar Rosenberger, creator de Idiom Neutral. Li lingue ci describet es sovente nominat *Auli* («auxiliari lingue international») o, retrospectivmen, *Proto-Occidental*.
 
 ---
 
