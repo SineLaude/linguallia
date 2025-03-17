@@ -3,7 +3,7 @@ layout: post
 title:  "Liste de mi dictionariums traserchabil"
 date:   2025-03-17 16:30:00 +0100
 ---
-Desde que, in may 2024, yo programmat un simplic web-interfacie quel permisse serchar rapidmen in un CSV contenent li data de un dictionarium, yo ha creat un mi-dozene de págines usant just ti interfacie (con micri variationes tecnic e visual) por pluri lingues constructet.
+Desde que, in may 2024, yo programmat un simplic web-interfacie quel permisse serchar rapidmen in un CSV contenent li data de un dictionarium, yo ha creat págines usant just ti interfacie (con micri variationes tecnic e visual) por un mi-dozene de lingues constructet.
 
 Vi un liste complet in órdine alfabetic:
 
