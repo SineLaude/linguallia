@@ -14,4 +14,10 @@ Vi un liste complet in órdine alfabetic:
 - [Occidental](https://occidental-lang.com/dictionaries/) (data de Kemp/Pope, Thomas Schmidt et al.)
 - [Sambahsa](https://sinelaude.github.io/samdict/) (data de Olivier Simon e Henrique Matheus da Silva Lima)
 
-<small>Ultim actualisation: 17.03.2025</small>
+---
+
+Adplu, un altri usator ([trosel](https://github.com/trosel/) che GitHub) ha creat li sequent dictionariums usante li sam code:
+
+- [Lidepla](https://lidepla-lang.github.io/dictionary/)
+- [Uropi](https://uropi-lang.github.io/dictionary/)
+
