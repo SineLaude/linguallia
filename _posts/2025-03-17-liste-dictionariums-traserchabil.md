@@ -8,19 +8,20 @@ Desde que, in may 2024, yo programmat un simplic web-interfacie quel permisse se
 Vi un liste complet in órdine alfabetic:
 
 - [Ekumenski](https://sinelaude.github.io/ekudict/) (data de Michael Wirth)
-- [Germanisch](https://germanisch-lang.github.io/dictionary/) (data de Olivier Simon e me; mode obscur contribuet de trosel)
 - [Glosa](https://sinelaude.github.io/glosadict/) (data de Wendy Ashby, Paul Bartlett, Ron Clark et al.)
 - [Mondial](https://sinelaude.github.io/dicomondial/) (data de Helge Heimer)
 - [Neo](https://sinelaude.github.io/neodict/) (data de Arturo Alfandari)
 - [Occidental](https://occidental-lang.com/dictionaries/) (data de Kemp/Pope, Thomas Schmidt et al.)
 - [Sambahsa](https://sinelaude.github.io/samdict/) (data de Olivier Simon e Henrique Matheus da Silva Lima)
+- [Saxdan](https://saxdan-lang.github.io/dictionary/) (data de Olivier Simon e me; mode obscur contribuet de trosel)
 
-<small>Ultim actualisation: 30.05.2025</small>
+<small>Ultim actualisation: 05.11.2025</small>
 
 ---
 
 Adplu, un altri usator ([trosel](https://github.com/trosel/) che GitHub) ha creat li sequent dictionariums usante li sam code:
 
 - [Lidepla](https://lidepla-lang.github.io/dictionary/)
+- [Manmino](https://manmino.github.io/dictionary/)
 - [Uropi](https://uropi-lang.github.io/dictionary/)
 
